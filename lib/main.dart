@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'NoFire App',
       theme: ThemeData(
-        primarySwatch: Colors.red,
+        primarySwatch: Colors.orange
       ),
       home: Home(),
     );
